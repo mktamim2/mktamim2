@@ -20,6 +20,7 @@ Basic skills:
 • XM L 
 • PHP – simple back-ends, mostly for pet projects.
 • ANDROID STUDIO
+
 Version control: git, GitHub
 
 Skills: JAVA/ XML / ADNRIOD  STUDIO
